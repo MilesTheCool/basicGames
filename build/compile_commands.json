@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/miles/dev/basicGames/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/basicGames.dir/src/main.cpp.o -c /home/miles/dev/basicGames/src/main.cpp",
+  "file": "/home/miles/dev/basicGames/src/main.cpp"
+},
+{
+  "directory": "/home/miles/dev/basicGames/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/basicGames.dir/src/glad/glad.c.o -c /home/miles/dev/basicGames/src/glad/glad.c",
+  "file": "/home/miles/dev/basicGames/src/glad/glad.c"
+}
+]

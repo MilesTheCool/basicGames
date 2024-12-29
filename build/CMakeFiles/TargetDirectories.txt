@@ -1,0 +1,3 @@
+/home/miles/dev/basicGames/build/CMakeFiles/basicGames.dir
+/home/miles/dev/basicGames/build/CMakeFiles/edit_cache.dir
+/home/miles/dev/basicGames/build/CMakeFiles/rebuild_cache.dir

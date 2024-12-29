@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/basicGames.dir/src/main.cpp.o CMakeFiles/basicGames.dir/src/glad/glad.c.o -o basicGames  -lglfw 
