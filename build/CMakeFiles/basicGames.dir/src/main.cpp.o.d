@@ -147,7 +147,8 @@ CMakeFiles/basicGames.dir/src/main.cpp.o: \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
  /usr/include/c++/11/bits/istream.tcc \
  /home/miles/dev/basicGames/src/glad/glad.h \
- /usr/include/KHR/khrplatform.h /usr/include/GLFW/glfw3.h \
+ /usr/include/KHR/khrplatform.h \
+ /home/miles/dev/basicGames/src/../includes/glfw3.h \
  /home/miles/dev/basicGames/src/gamesInterface.h \
  /home/miles/dev/basicGames/src/pong.h \
  /home/miles/dev/basicGames/src/ticTacToe.h

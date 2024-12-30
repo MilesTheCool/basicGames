@@ -3,7 +3,7 @@
 #define GAME_INTERFACE 
 
 #include "glad/glad.h"
-#include <GLFW/glfw3.h>
+#include "../includes/glfw3.h"
 
 class GameInterface {
 public:

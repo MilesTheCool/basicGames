@@ -250,13 +250,15 @@ CMakeFiles/basicGames.dir/src/main.cpp.o: ../src/main.cpp \
   /usr/include/c++/11/bits/istream.tcc \
   ../src/glad/glad.h \
   /usr/include/KHR/khrplatform.h \
-  /usr/include/GLFW/glfw3.h \
+  ../includes/glfw3.h \
   ../src/gamesInterface.h \
   ../src/pong.h \
   ../src/ticTacToe.h
 
 
 ../src/ticTacToe.h:
+
+../includes/glfw3.h:
 
 /usr/include/c++/11/bits/istream.tcc:
 
@@ -331,8 +333,6 @@ CMakeFiles/basicGames.dir/src/main.cpp.o: ../src/main.cpp \
 /usr/include/x86_64-linux-gnu/c++/11/bits/c++allocator.h:
 
 /usr/include/c++/11/bits/locale_classes.h:
-
-/usr/include/GLFW/glfw3.h:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/atomic_word.h:
 

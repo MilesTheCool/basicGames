@@ -4,7 +4,7 @@
 #include <string>
 
 #include "glad/glad.h"
-#include <GLFW/glfw3.h>  // LET ME KNOW ASAP IF THIS CANNOT BE INCLUDED.
+#include "../includes/glfw3.h" // LET ME KNOW ASAP IF THIS CANNOT BE INCLUDED.
 
 #include "gamesInterface.h"
 #include "pong.h"
